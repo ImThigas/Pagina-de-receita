@@ -1,6 +1,8 @@
 # Cupcake Recipe Page
 Este projeto é uma página web estática que exibe uma deliciosa receita de cupcake. <br>
-A página foi desenvolvida com HTML e CSS, apresentando os ingredientes, o modo de preparo e outras dicas úteis de forma clara e organizada.
+A página foi desenvolvida com HTML e CSS, apresentando os ingredientes, o modo de preparo e outras dicas úteis de forma clara e organizada. <br><br>
+![Captura de tela 2024-12-10 153857](https://github.com/user-attachments/assets/5d0accb6-3fdf-4a0b-bdc4-90ce4283be63)
+
 
 ## Funcionalidades
 Exibição detalhada da receita com ingredientes e modo de preparo. <br>
